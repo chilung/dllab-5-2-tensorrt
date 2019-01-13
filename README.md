@@ -1,4 +1,5 @@
 # dllab-5-2-tensorrt
-
+'''
 Large file:
 git rm --cached "lib/python3.5/site-packages/site-packages/torch/_C.cpython-35m-x86_64-linux-gnu.so" "lib/python3.5/site-packages/site-packages/torch/lib/libATen.so" "lib/python3.5/site-packages/torch/_C.cpython-35m-x86_64-linux-gnu.so" "lib/python3.5/site-packages/torch/lib/libATen.so" "NVIDIA_CUDA-10.0_Samples/7_CUDALibraries/simpleCUFFT_callback/simpleCUFFT_callback" "NVIDIA_CUDA-10.0_Samples/7_CUDALibraries/MersenneTwisterGP11213/MersenneTwisterGP11213" "NVIDIA_CUDA-10.0_Samples/bin/x86_64/linux/release/simpleCUFFT_callback" "NVIDIA_CUDA-10.0_Samples/bin/x86_64/linux/release/MersenneTwisterGP11213" "resnet18.onnx" "TensorRT-5.0.2.6/data/char-rnn/model/model-20080.data-00000-of-00001" "TensorRT-5.0.2.6/data/char-rnn/char-rnn.wts" "TensorRT-5.0.2.6/targets/x86_64-linux-gnu/lib/libnvinfer.so.5.0.2" "TensorRT-5.0.2.6/targets/x86_64-linux-gnu/lib/libnvinfer_static.a" "TensorRT-5.0.2.6/python/data/resnet50/ResNet50.onnx" "TensorRT-5.0.2.6/python/data/resnet50/ResNet50_fp32.caffemodel" "TensorRT-5.0.2.6/python/data/resnet50/resnet50-infer-5.uff"
+'''
