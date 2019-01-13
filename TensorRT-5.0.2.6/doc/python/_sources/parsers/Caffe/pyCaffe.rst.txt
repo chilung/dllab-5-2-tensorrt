@@ -1,0 +1,16 @@
+============
+Caffe Parser
+============
+
+.. autoclass:: tensorrt.IBlobNameToTensor
+    :members:
+
+.. autoclass:: tensorrt.CaffeParser
+    :members:
+
+.. autofunction:: tensorrt.shutdown_protobuf_library
+
+.. toctree::
+    :hidden:
+    
+    Plugins

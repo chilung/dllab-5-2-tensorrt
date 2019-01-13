@@ -1,0 +1,5 @@
+=======
+Runtime
+=======
+.. autoclass:: tensorrt.Runtime
+    :members:

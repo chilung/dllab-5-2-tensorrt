@@ -1,0 +1,6 @@
+=======
+Weights
+=======
+
+.. autoclass:: tensorrt.Weights
+    :members:

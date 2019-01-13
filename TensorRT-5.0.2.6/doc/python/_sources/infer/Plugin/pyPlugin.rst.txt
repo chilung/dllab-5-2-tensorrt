@@ -1,0 +1,11 @@
+======
+Plugin
+======
+
+.. toctree::
+    IPlugin
+    IPluginExt
+    IPluginV2
+    IPluginCreator
+    IPluginRegistry
+    IPluginFactory

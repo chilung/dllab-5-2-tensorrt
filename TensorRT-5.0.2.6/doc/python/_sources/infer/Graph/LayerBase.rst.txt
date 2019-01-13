@@ -1,0 +1,19 @@
+==================
+Layer Base Classes
+==================
+
+ITensor
+~~~~~~~
+.. autodata:: tensorrt.TensorLocation
+    :annotation:
+
+.. autoclass:: tensorrt.ITensor
+    :members:
+
+ILayer
+~~~~~~~
+.. autodata:: tensorrt.LayerType
+    :annotation:
+
+.. autoclass:: tensorrt.ILayer
+    :members:

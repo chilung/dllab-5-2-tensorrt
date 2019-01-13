@@ -1,0 +1,105 @@
+work space: 2^0
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+37.5941948890686 seconds
+work space: 2^10
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+37.57137417793274 seconds
+work space: 2^15
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+37.51393222808838 seconds
+work space: 2^20
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+37.482604026794434 seconds
+work space: 2^27
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+38.040149450302124 seconds
+work space: 2^30
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+37.74765706062317 seconds
+work space: 2^31
+test data set: test
+Accuracy of the network on the 3347 test images: 92.41%, and loss is: 0.007
+Accuracy of Bread : 88 %
+Accuracy of DairyProduct : 81 %
+Accuracy of Dessert : 97 %
+Accuracy of   Egg : 88 %
+Accuracy of Friedfood : 92 %
+Accuracy of  Meat : 91 %
+Accuracy of Noodles-Pasta : 92 %
+Accuracy of  Rice : 98 %
+Accuracy of Seafood : 98 %
+Accuracy of  Soup : 91 %
+Accuracy of Vegetable-Fruit : 97 %
+37.32978677749634 seconds

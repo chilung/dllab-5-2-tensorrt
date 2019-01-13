@@ -1,0 +1,5 @@
+===========
+ICudaEngine
+===========
+.. autoclass:: tensorrt.ICudaEngine
+    :members:

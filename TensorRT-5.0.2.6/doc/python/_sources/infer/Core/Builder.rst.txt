@@ -1,0 +1,5 @@
+=======
+Builder
+=======
+.. autoclass:: tensorrt.Builder
+    :members:
