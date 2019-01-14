@@ -1,0 +1,16 @@
+NVIDIA_CUDA-10.0_Samples/7_CUDALibraries/MersenneTwisterGP11213/MersenneTwisterGP11213 filter=lfs diff=lfs merge=lfs -text
+NVIDIA_CUDA-10.0_Samples/7_CUDALibraries/simpleCUFFT_callback/simpleCUFFT_callback filter=lfs diff=lfs merge=lfs -text
+NVIDIA_CUDA-10.0_Samples/bin/x86_64/linux/release/MersenneTwisterGP11213 filter=lfs diff=lfs merge=lfs -text
+NVIDIA_CUDA-10.0_Samples/bin/x86_64/linux/release/simpleCUFFT_callback filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/data/char-rnn/char-rnn.wts filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/data/char-rnn/model/model-20080.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/python/data/resnet50/ResNet50.onnx filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/targets/x86_64-linux-gnu/lib/libnvinfer.so.5.0.2 filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/targets/x86_64-linux-gnu/lib/libnvinfer_static.a filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/python/data/resnet50/ResNet50_fp32.caffemodel filter=lfs diff=lfs merge=lfs -text
+TensorRT-5.0.2.6/python/data/resnet50/resnet50-infer-5.uff filter=lfs diff=lfs merge=lfs -text
+lib/python3.5/site-packages/torch/lib/libATen.so filter=lfs diff=lfs merge=lfs -text
+lib/python3.5/site-packages/site-packages/torch/_C.cpython-35m-x86_64-linux-gnu.so filter=lfs diff=lfs merge=lfs -text
+lib/python3.5/site-packages/site-packages/torch/lib/libATen.so filter=lfs diff=lfs merge=lfs -text
+lib/python3.5/site-packages/torch/_C.cpython-35m-x86_64-linux-gnu.so filter=lfs diff=lfs merge=lfs -text
+resnet18.onnx filter=lfs diff=lfs merge=lfs -text
